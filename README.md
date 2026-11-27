@@ -4,7 +4,7 @@
 
 ### Towards Generalist Embodied Navigation
 
-Han Zheng · Zhe Chen · Yijian Li · Ming Yang · Tong Qin
+Han Zheng · Zhe Chen · Yijian Li · Ming Yang · Tong Qin*
 
 **Shanghai Jiao Tong University**
 
