@@ -37,12 +37,6 @@ OpenXNav is a generalist embodied navigation system in the open world, with four
 - **Research Focus:** Long-horizon autonomous navigation in real-world urban environments.
 - **Core Approach:** Integrating vision-language models, digital map tools, and real-time navigation within a unified framework.
 
-<!-- GIF excerpts from https://wuyi2121.github.io/UrbanAgent/video/:
-     long/coffee.mp4: 00:08–00:15.5, played at 1.5× source speed.
-     semantic/semantic1_final.mp4: 00:08–00:13.
-     poi/luckin/luckin1_final.mp4: 00:07–00:12.
-     long/long_final.mp4: 00:20–00:25.
--->
 <table>
   <tr>
     <th width="50%" align="center">🧠 Agentic Navigation</th>
@@ -69,7 +63,7 @@ OpenXNav is a generalist embodied navigation system in the open world, with four
     </td>
     <td width="50%" align="center" valign="top">
       <p><a href="https://wuyi2121.github.io/UrbanAgent/#amap"><img src="assets/demos/urbanagent-long-horizon.gif" alt="UrbanAgent following a route with digital map guidance and local navigation" width="100%"></a></p>
-      <p>Follow kilometer-scale routes with digital map guidance.</p>
+      <p>Follow kilometer-scale routes using digital maps.</p>
     </td>
   </tr>
 </table>
