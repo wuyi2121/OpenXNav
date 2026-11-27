@@ -4,14 +4,13 @@
 
 ### Towards Generalist Embodied Navigation
 
-**One System, Many Navigation Tasks.**
-
 Han Zheng · Zhe Chen · Yijian Li · Ming Yang · Tong Qin
 
 **Shanghai Jiao Tong University**
 
+![arXiv Coming Soon](https://img.shields.io/badge/arXiv-Coming_Soon-b31b1b?logo=arxiv&logoColor=white)
 [![Project Page](https://img.shields.io/badge/Project-UrbanAgent-1f6feb?logo=googlechrome&logoColor=white)](https://wuyi2121.github.io/UrbanAgent/)
-[![Video Demos](https://img.shields.io/badge/Video-Real--World_Demos-ea4335?logo=youtube&logoColor=white)](https://wuyi2121.github.io/UrbanAgent/#agent)
+[![Bilibili Video](https://img.shields.io/badge/Video-Bilibili-fb7299?logo=bilibili&logoColor=white)]()
 ![Code Coming Soon](https://img.shields.io/badge/Code-Coming_Soon-6e7681?logo=github&logoColor=white)
 
 </div>
@@ -33,7 +32,8 @@ OpenXNav is a generalist embodied navigation system in the open world, with four
 
 ## 🧭 OpenXNav · v0.1
 
-- **UrbanAgent:** A Zero-Shot Agentic System for Long-Horizon Urban Navigation.
+**UrbanAgent** is a zero-shot agentic system for long-horizon urban navigation.
+
 - **First milestone:** OpenXNav v0.1 explores generalist embodied navigation in real-world urban environments.
 - **Core approach:** Combine vision-language models, digital map tools, and real-time navigation.
 
@@ -53,12 +53,10 @@ OpenXNav is a generalist embodied navigation system in the open world, with four
     <td width="50%" align="center" valign="top">
       <p><a href="https://wuyi2121.github.io/UrbanAgent/#agent"><img src="assets/demos/urbanagent-agentic.gif" alt="UrbanAgent interpreting a coffee request and calling POI and map tools" width="100%"></a></p>
       <p>Understand instructions and execute tasks with tools.</p>
-      <a href="https://wuyi2121.github.io/UrbanAgent/#agent"><sub>Watch demo ↗</sub></a>
     </td>
     <td width="50%" align="center" valign="top">
       <p><a href="https://wuyi2121.github.io/UrbanAgent/#vln"><img src="assets/demos/urbanagent-vln.gif" alt="UrbanAgent following a sidewalk with multiple camera views" width="100%"></a></p>
       <p>Follow sidewalks with language and visual cues.</p>
-      <a href="https://wuyi2121.github.io/UrbanAgent/#vln"><sub>Watch demo ↗</sub></a>
     </td>
   </tr>
   <tr>
@@ -69,12 +67,10 @@ OpenXNav is a generalist embodied navigation system in the open world, with four
     <td width="50%" align="center" valign="top">
       <p><a href="https://wuyi2121.github.io/UrbanAgent/#poinav"><img src="assets/demos/urbanagent-poi.gif" alt="UrbanAgent approaching the entrance of a Luckin Coffee storefront" width="100%"></a></p>
       <p>Locate storefronts and navigate to their entrances.</p>
-      <a href="https://wuyi2121.github.io/UrbanAgent/#poinav"><sub>Watch demo ↗</sub></a>
     </td>
     <td width="50%" align="center" valign="top">
       <p><a href="https://wuyi2121.github.io/UrbanAgent/#amap"><img src="assets/demos/urbanagent-long-horizon.gif" alt="UrbanAgent following a route with digital map guidance and local navigation" width="100%"></a></p>
       <p>Follow kilometer-scale routes with digital map guidance.</p>
-      <a href="https://wuyi2121.github.io/UrbanAgent/#amap"><sub>Watch demo ↗</sub></a>
     </td>
   </tr>
 </table>
