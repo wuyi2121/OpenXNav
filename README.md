@@ -95,10 +95,8 @@ If you find this work useful in your research, please cite:
 
 ```bibtex
 @misc{zheng2026urbanagent,
-  author = {Zheng, Han and Chen, Zhe and Li, Yijian
-            and Yang, Ming and Qin, Tong},
-  title  = {{UrbanAgent}: A Zero-Shot Agentic System
-            for Long-Horizon Urban Navigation},
+  author = {Zheng, Han and Chen, Zhe and Li, Yijian and Yang, Ming and Qin, Tong},
+  title  = {{UrbanAgent}: A Zero-Shot Agentic System for Long-Horizon Urban Navigation},
   year   = {2026},
   url    = {https://wuyi2121.github.io/UrbanAgent/},
   note   = {Project page}
