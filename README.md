@@ -45,10 +45,12 @@ OpenXNav is a generalist embodied navigation system in the open world, with four
   <tr>
     <td width="50%" align="center" valign="top">
       <p><a href="https://wuyi2121.github.io/UrbanAgent/#agent"><img src="assets/demos/urbanagent-agentic.gif" alt="UrbanAgent interpreting a coffee request and calling POI and map tools" width="100%"></a></p>
+      <blockquote align="left"><p><strong>💬 Prompt</strong><br>“Hi, I want to drink coffee”</p></blockquote>
       <p>Understand instructions and execute tasks with tools.</p>
     </td>
     <td width="50%" align="center" valign="top">
       <p><a href="https://wuyi2121.github.io/UrbanAgent/#vln"><img src="assets/demos/urbanagent-vln.gif" alt="UrbanAgent following a sidewalk with multiple camera views" width="100%"></a></p>
+      <blockquote align="left"><p><strong>💬 Prompt</strong><br>“follow the sidewalk”</p></blockquote>
       <p>Follow sidewalks with language and visual cues.</p>
     </td>
   </tr>
@@ -59,10 +61,12 @@ OpenXNav is a generalist embodied navigation system in the open world, with four
   <tr>
     <td width="50%" align="center" valign="top">
       <p><a href="https://wuyi2121.github.io/UrbanAgent/#poinav"><img src="assets/demos/urbanagent-poi.gif" alt="UrbanAgent approaching the entrance of a Luckin Coffee storefront" width="100%"></a></p>
+      <blockquote align="left"><p><strong>💬 Prompt</strong><br>“navigate to Luckin Coffee”</p></blockquote>
       <p>Locate storefronts and navigate to their entrances.</p>
     </td>
     <td width="50%" align="center" valign="top">
       <p><a href="https://wuyi2121.github.io/UrbanAgent/#amap"><img src="assets/demos/urbanagent-long-horizon.gif" alt="UrbanAgent following a route with digital map guidance and local navigation" width="100%"></a></p>
+      <blockquote align="left"><p><strong>💬 Prompt</strong><br>“follow the route and prefer sidewalks”</p></blockquote>
       <p>Follow kilometer-scale routes using digital maps.</p>
     </td>
   </tr>
