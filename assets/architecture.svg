@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="302" viewBox="0 0 1280 302" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">OpenXNav three-system architecture</title>
+  <desc id="desc">System 2: Reasoning and Memory. System 1: Navigation and Action. System 0: Control and Safety. Forward connections carry goals and actions; return connections carry feedback.</desc>
+  <defs>
+    <marker id="arrow" viewBox="0 0 8 8" refX="7" refY="4" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="m0 0 8 4-8 4Z" fill="#8196A9"/>
+    </marker>
+  </defs>
+  <rect x="1" y="1" width="1278" height="300" rx="18" fill="#0D192B" stroke="#26394D"/>
+  <g font-family="Inter, Segoe UI, Arial, sans-serif">
+    <text x="36" y="39" fill="#91A9BF" font-size="14" letter-spacing="2">THREE SYSTEMS · A SHARED ARCHITECTURE</text>
+    <rect x="36" y="64" width="354" height="192" rx="12" fill="#132E36" stroke="#2C6267"/>
+    <rect x="463" y="64" width="354" height="192" rx="12" fill="#142B45" stroke="#31567C"/>
+    <rect x="890" y="64" width="354" height="192" rx="12" fill="#29273F" stroke="#504A72"/>
+    <text x="60" y="101" fill="#67DCCB" font-size="14" font-weight="700" letter-spacing="2">SYSTEM 2</text>
+    <text x="487" y="101" fill="#89C3FF" font-size="14" font-weight="700" letter-spacing="2">SYSTEM 1</text>
+    <text x="914" y="101" fill="#B9ABEF" font-size="14" font-weight="700" letter-spacing="2">SYSTEM 0</text>
+    <g fill="#F2F7FC" font-size="25" font-weight="600">
+      <text x="60" y="143">Reasoning &amp; Memory</text>
+      <text x="487" y="143">Navigation &amp; Action</text>
+      <text x="914" y="143">Control &amp; Safety</text>
+    </g>
+    <g fill="#B5C6D6" font-size="18">
+      <text x="60" y="184">Understand tasks · Plan ahead</text>
+      <text x="60" y="216">Explore · Remember</text>
+      <text x="487" y="184">Ground language · Perceive space</text>
+      <text x="487" y="216">Decide local navigation actions</text>
+      <text x="914" y="184">Execute motion · Apply constraints</text>
+      <text x="914" y="216">Manage physical safety</text>
+    </g>
+    <g stroke="#8196A9" stroke-width="1.5" marker-end="url(#arrow)">
+      <path d="M400 148H453"/>
+      <path d="M453 179H400"/>
+      <path d="M827 148H880"/>
+      <path d="M880 179H827"/>
+    </g>
+    <text x="640" y="282" text-anchor="middle" fill="#91A9BF" font-size="14">Task goals and navigation actions →     ·     ← Observations and execution feedback</text>
+  </g>
+</svg>
