@@ -6,11 +6,17 @@
 
 **One System, Many Navigation Tasks.**
 
+Han Zheng · Zhe Chen · Yijian Li · Ming Yang · Tong Qin
+
+**Shanghai Jiao Tong University**
+
 [![Project Page](https://img.shields.io/badge/Project-UrbanAgent-1f6feb?logo=googlechrome&logoColor=white)](https://wuyi2121.github.io/UrbanAgent/)
 [![Video Demos](https://img.shields.io/badge/Video-Real--World_Demos-ea4335?logo=youtube&logoColor=white)](https://wuyi2121.github.io/UrbanAgent/#agent)
 ![Code Coming Soon](https://img.shields.io/badge/Code-Coming_Soon-6e7681?logo=github&logoColor=white)
 
 </div>
+
+<div align="justify">
 
 ## 🌍 What is OpenXNav?
 
@@ -25,11 +31,11 @@ OpenXNav is a generalist embodied navigation system in the open world, with four
   <img src="assets/system.png" alt="OpenXNav: a generalist embodied navigation system in the open world, featuring Open Semantics, Unified Navigation, Accessible Deployment, and Continuous Evolution." width="100%">
 </p>
 
-## UrbanAgent · v0.1
+## 🧭 OpenXNav · v0.1
 
-**A Zero-Shot Agentic System for Long-Horizon Urban Navigation**
-
-OpenXNav's first milestone: an initial exploration of long-horizon urban navigation.
+- **UrbanAgent:** A Zero-Shot Agentic System for Long-Horizon Urban Navigation.
+- **First milestone:** OpenXNav v0.1 explores generalist embodied navigation in real-world urban environments.
+- **Core approach:** Combine vision-language models, digital map tools, and real-time navigation.
 
 <!-- GIF excerpts from https://wuyi2121.github.io/UrbanAgent/video/:
      Regenerate with: python3 scripts/generate_demo_gifs.py
@@ -40,27 +46,35 @@ OpenXNav's first milestone: an initial exploration of long-horizon urban navigat
 -->
 <table>
   <tr>
-    <td width="50%" align="center">
-      <strong>1. Agentic Navigation</strong><br>
-      <a href="https://wuyi2121.github.io/UrbanAgent/#agent"><img src="assets/demos/urbanagent-agentic.gif" alt="UrbanAgent interpreting a coffee request and calling POI and map tools" width="100%"></a><br>
-      Understand instructions, use tools, and execute multi-stage tasks.
+    <th width="50%" align="center">🧠 Agentic Navigation</th>
+    <th width="50%" align="center">👀 Vision-Language Navigation</th>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <p><a href="https://wuyi2121.github.io/UrbanAgent/#agent"><img src="assets/demos/urbanagent-agentic.gif" alt="UrbanAgent interpreting a coffee request and calling POI and map tools" width="100%"></a></p>
+      <p>Understand instructions and execute tasks with tools.</p>
+      <a href="https://wuyi2121.github.io/UrbanAgent/#agent"><sub>Watch demo ↗</sub></a>
     </td>
-    <td width="50%" align="center">
-      <strong>2. Vision-Language Navigation</strong><br>
-      <a href="https://wuyi2121.github.io/UrbanAgent/#vln"><img src="assets/demos/urbanagent-vln.gif" alt="UrbanAgent following a sidewalk with multiple camera views" width="100%"></a><br>
-      Follow sidewalks using language instructions and visual cues.
+    <td width="50%" align="center" valign="top">
+      <p><a href="https://wuyi2121.github.io/UrbanAgent/#vln"><img src="assets/demos/urbanagent-vln.gif" alt="UrbanAgent following a sidewalk with multiple camera views" width="100%"></a></p>
+      <p>Follow sidewalks with language and visual cues.</p>
+      <a href="https://wuyi2121.github.io/UrbanAgent/#vln"><sub>Watch demo ↗</sub></a>
     </td>
   </tr>
   <tr>
-    <td width="50%" align="center">
-      <strong>3. Point-of-Interest Navigation</strong><br>
-      <a href="https://wuyi2121.github.io/UrbanAgent/#poinav"><img src="assets/demos/urbanagent-poi.gif" alt="UrbanAgent approaching the entrance of a Luckin Coffee storefront" width="100%"></a><br>
-      Visually locate target storefronts and approach their entrances.
+    <th width="50%" align="center">📍 Point-of-Interest Navigation</th>
+    <th width="50%" align="center">🗺️ Long-Horizon Urban Navigation</th>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <p><a href="https://wuyi2121.github.io/UrbanAgent/#poinav"><img src="assets/demos/urbanagent-poi.gif" alt="UrbanAgent approaching the entrance of a Luckin Coffee storefront" width="100%"></a></p>
+      <p>Locate storefronts and navigate to their entrances.</p>
+      <a href="https://wuyi2121.github.io/UrbanAgent/#poinav"><sub>Watch demo ↗</sub></a>
     </td>
-    <td width="50%" align="center">
-      <strong>4. Long-Horizon Urban Navigation</strong><br>
-      <a href="https://wuyi2121.github.io/UrbanAgent/#amap"><img src="assets/demos/urbanagent-long-horizon.gif" alt="UrbanAgent following a route with digital map guidance and local navigation" width="100%"></a><br>
-      Navigate kilometer-scale routes with digital map guidance.
+    <td width="50%" align="center" valign="top">
+      <p><a href="https://wuyi2121.github.io/UrbanAgent/#amap"><img src="assets/demos/urbanagent-long-horizon.gif" alt="UrbanAgent following a route with digital map guidance and local navigation" width="100%"></a></p>
+      <p>Follow kilometer-scale routes with digital map guidance.</p>
+      <a href="https://wuyi2121.github.io/UrbanAgent/#amap"><sub>Watch demo ↗</sub></a>
     </td>
   </tr>
 </table>
@@ -75,12 +89,9 @@ OpenXNav's first milestone: an initial exploration of long-horizon urban navigat
 - [ ] v1.0 — OpenXNav: Generalist Embodied Navigation.
 - [ ] Full Open-Source Release.
 
-## Citation
+## 📖 Citation
 
 If you find this work useful in your research, please cite:
-
-<details>
-<summary>Cite the UrbanAgent project page</summary>
 
 ```bibtex
 @misc{zheng2026urbanagent,
@@ -94,7 +105,7 @@ If you find this work useful in your research, please cite:
 }
 ```
 
-</details>
+</div>
 
 ---
 
