@@ -38,7 +38,6 @@ OpenXNav is a generalist embodied navigation system in the open world, with four
 - **Core approach:** Combine vision-language models, digital map tools, and real-time navigation.
 
 <!-- GIF excerpts from https://wuyi2121.github.io/UrbanAgent/video/:
-     Regenerate with: python3 scripts/generate_demo_gifs.py
      long/coffee.mp4: 00:08–00:15.5, played at 1.5× source speed.
      semantic/semantic1_final.mp4: 00:08–00:13.
      poi/luckin/luckin1_final.mp4: 00:07–00:12.
