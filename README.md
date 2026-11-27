@@ -2,7 +2,7 @@
 
 # OpenXNav
 
-### Towards Generalist Embodied Navigation
+### A Generalist Embodied Navigation System in the Open World
 
 Han Zheng · Zhe Chen · Yijian Li · Ming Yang · Tong Qin*
 
@@ -32,10 +32,10 @@ OpenXNav is a generalist embodied navigation system in the open world, with four
 
 ## 🧭 OpenXNav · v0.1
 
-**UrbanAgent** is a zero-shot agentic system for long-horizon urban navigation.
+**UrbanAgent** represents our first step towards generalist embodied navigation.
 
-- **First milestone:** OpenXNav v0.1 explores generalist embodied navigation in real-world urban environments.
-- **Core approach:** Combine vision-language models, digital map tools, and real-time navigation.
+- **Research Focus:** Long-horizon autonomous navigation in real-world urban environments.
+- **Core Approach:** Integrating vision-language models, digital map tools, and real-time navigation within a unified framework.
 
 <!-- GIF excerpts from https://wuyi2121.github.io/UrbanAgent/video/:
      long/coffee.mp4: 00:08–00:15.5, played at 1.5× source speed.
@@ -80,9 +80,9 @@ OpenXNav is a generalist embodied navigation system in the open world, with four
 
 ## 🚀 Roadmap
 
-- [x] v0.1 — UrbanAgent: Long-Horizon Urban Navigation.
-- [ ] v1.0 — OpenXNav: Generalist Embodied Navigation.
-- [ ] Full Open-Source Release.
+- [x] Preview OpenXNav v0.1 — UrbanAgent.
+- [ ] Release OpenXNav v1.0 — Generalist Embodied Navigation.
+- [ ] Release source code and deployment.
 
 ## 📖 Citation
 
@@ -97,6 +97,10 @@ If you find this work useful in your research, please cite:
   note   = {Project page}
 }
 ```
+
+## 📄 License
+
+This project is licensed under the [Apache License 2.0](LICENSE).
 
 </div>
 
